@@ -8,5 +8,5 @@
 	branch = 16.0
 [submodule "bi_import_img_from_zip"]
 	path = bi_import_img_from_zip
-	url = git@github.com:JorgeMobilize/bi_import_img_from_zip.git
+	url = git@github.com:MobilizeDevTeam/bi_import_img_from_zip.git
 	branch = 16.0
