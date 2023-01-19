@@ -2,6 +2,10 @@
 	path = sale_product_document
 	url = git@github.com:MobilizeDevTeam/sale_product_document.git
 	branch = 16.0
+[submodule "mblz_retail"]
+	path = mblz_retail
+	url = git@github.com:MobilizeDevTeam/mblz_retail.git
+	branch = 16.0
 [submodule "bi_import_img_from_zip"]
 	path = bi_import_img_from_zip
 	url = git@github.com:MobilizeDevTeam/bi_import_img_from_zip.git
